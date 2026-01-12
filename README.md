@@ -22,17 +22,10 @@ I am passionate about building AI solutions for real-world healthcare and access
 
 ###  Connect with me
 
-<div align="left">
+-  **LinkedIn:** [Chittesh ST](https://www.linkedin.com/in/chittesh-st-817133292)
+-  **Email:** [sampathchittesh2004@gmail.com](mailto:sampathchittesh2004@gmail.com)
 
-<a href="https://www.linkedin.com/in/chittesh-st-817133292" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:sampathchittesh2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-</div>
+---
 
 <!--
 **Chittesh-ST/Chittesh-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
