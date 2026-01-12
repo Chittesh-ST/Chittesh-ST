@@ -14,9 +14,9 @@ I am passionate about building AI solutions for real-world healthcare and access
 ---
 
 ### Featured Projects
-* **[Alzheimer's Detection CGAN](https://github.com/Chittesh-ST/Alzheimers-Detection-CGAN)**: (Add a one-line description here once you upload it).
+* **[AI Learning Agent](https://github.com/Chittesh-ST/Alzheimers-Detection-CGAN)**: An adaptive learning system built with LangGraph and RAG, along with Feymann explanation for a clear grasp of concepts.
 * **[Sign Language Detector](https://github.com/Chittesh-ST/Sign-language-detector)**: Real-time sign language recognition system.
-* **[Skin Disease Classifier](https://github.com/Chittesh-ST/Skin-Disease-Classifier)**: A CNN-based model achieving 99% accuracy in detecting 9 types of skin diseases using Fourier Transform image enhancement.
+* **[Skin Disease Classifier](https://github.com/Chittesh-ST/Skin-Disease-Classifier)**: A CNN-based model that detects 9 types of skin diseases using Fourier Transform image enhancement.
 
 ---
 
