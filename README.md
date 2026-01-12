@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Chittesh! 
+
+### Undergraduate ECE Student | AI & Machine Learning Enthusiast
+
+I am passionate about building AI solutions for real-world healthcare and accessibility problems. Currently exploring Deep Learning and Computer Vision.
+
+---
+
+### Tech Stack
+* **Languages:** Python, C
+* **AI/ML:** TensorFlow, Keras, OpenCV, NumPy, Pandas
+* **Tools:** Git, Jupyter Notebooks
+
+---
+
+### Featured Projects
+* **[Alzheimer's Detection CGAN](https://github.com/Chittesh-ST/Alzheimers-Detection-CGAN)**: (Add a one-line description here once you upload it).
+* **[Sign Language Detector](https://github.com/Chittesh-ST/Sign-language-detector)**: Real-time sign language recognition system.
+* **[Skin Disease Classifier](https://github.com/Chittesh-ST/Skin-Disease-Classifier)**: A CNN-based model achieving 99% accuracy in detecting 9 types of skin diseases using Fourier Transform image enhancement.
+
+---
+
+###  Connect with me
+* [Email](sampathchittesh2004@gmail.com)
+* [LinkedIn](www.linkedin.com/in/chittesh-st-817133292)
 
 <!--
 **Chittesh-ST/Chittesh-ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
