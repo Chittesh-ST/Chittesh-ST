@@ -23,7 +23,7 @@ I am passionate about building AI solutions for real-world healthcare and access
 ###  Connect with me
 
 -  **LinkedIn:** [Chittesh ST](https://www.linkedin.com/in/chittesh-st-817133292)
--  **Email:** [sampathchittesh2004@gmail.com](mailto:chittesh2409@gmail.com)
+-  **Email:** [chittesh2409@gmail.com](mailto:chittesh2409@gmail.com)
 
 ---
 
